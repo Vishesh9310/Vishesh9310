@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Final Year BCA Student | Front-End Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3F78E0&center=true&vCenter=true&width=435&lines=I+love+building+full-stack+projects;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Debugging+is+my+superpower!+😄" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3F78E0&center=true&vCenter=true&width=435&lines=I+love+building+front-end+projects;Java+%7C+JavaScript+%7C+React+%7C+MySQL;Debugging+is+my+superpower!+😄" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 ### 🔥 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,typescript,react,tailwind,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,typescript,react,tailwind,js,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -40,18 +40,11 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/vishesh-b8a2b72a3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vishesh-vishesh-b8a2b72a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/sayme_vishesh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:vk866797@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishesh9310&show_icons=true&theme=radical" alt="Vishesh's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishesh9310&theme=radical" width="400"/>
-</p>
 
 ---
 
