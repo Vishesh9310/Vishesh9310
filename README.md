@@ -18,7 +18,7 @@
 
 - 🎓 Final Year BCA Student (2023–26 Batch)
 - 💼 Completed SEO Internship at **Tech World Digital Solutions**
-- 🚀 Currently working as an **SEO Intern at PrimaFelicitas**
+- 🚀 Currently working as an **SEO & Web Operations Intern at PrimaFelicitas**
 - 💻 Passionate about building scalable and real-world **MERN Stack Applications**
 - 🤖 Exploring **AI-integrated web applications** & automation tools
 - 📊 Hands-on experience with:
@@ -58,7 +58,7 @@
 
 ## 📈 Experience
 
-### 💼 SEO Intern — PrimaFelicitas
+### 💼 SEO & Web Operations Intern — PrimaFelicitas
 - Working on real-world SEO strategies and website optimization
 - Improving website performance, keyword research & analytics
 - Collaborating with live production websites
