@@ -4,9 +4,6 @@
 🚀 MERN Stack Developer | AI Integration Enthusiast | SEO & Data Analytics Learner
 </h3>
 
-<h4 align="center">
-🎓 Final Year BCA Student (2023–2026) | 6th Semester
-</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3F78E0&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Building+AI-Powered+Web+Applications;SEO+Intern+with+Real+Industry+Experience;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Passionate+about+Scalable+and+Modern+Web+Apps;Debugging+%2B+Problem+Solving+is+my+thing+%F0%9F%9A%80" alt="Typing SVG" />
@@ -16,9 +13,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year BCA Student (2023–26 Batch)
-- 💼 Completed SEO Internship at **Tech World Digital Solutions**
-- 🚀 Currently working as an **SEO & Web Operations Intern at PrimaFelicitas**
+- 🎓 MERN Stack Developer
+- 🚀 Currently working as an **SEO Executive at Omana Projects**
 - 💻 Passionate about building scalable and real-world **MERN Stack Applications**
 - 🤖 Exploring **AI-integrated web applications** & automation tools
 - 📊 Hands-on experience with:
@@ -58,7 +54,12 @@
 
 ## 📈 Experience
 
-### 💼 SEO & Web Operations Intern — PrimaFelicitas
+### 💼 SEO Executive - Omana Projects
+- Working on real-world SEO strategies and website optimization
+- Applying New Strategies to Improve Site Ranking and generating Leads
+- Collaborating with live production websites
+
+### 💼 SEO & Web Operations Executive — PrimaFelicitas
 - Working on real-world SEO strategies and website optimization
 - Improving website performance, keyword research & analytics
 - Collaborating with live production websites
